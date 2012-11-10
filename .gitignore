@@ -1,0 +1,7 @@
+$ cat .gitignore
+
+.classpath
+.eclipse
+.project
+.settings/**
+target/**
